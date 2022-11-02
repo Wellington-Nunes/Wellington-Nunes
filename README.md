@@ -1,16 +1,43 @@
-### Hi there 👋
+<div>
+  <h2> print('Hello, World!')</h2>
+</div>
 
-<!--
-**Wellington-Nunes/Wellington-Nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje estou procurando emprego na área de Back-End
+- 🌱 Atualmente estou aprendendo Python, cursando Ciência da Computação
+- ⚡ Level 21
+- 🤓 Nerd
 
-Here are some ideas to get you started:
+<div align="center">
+    <h2>:alien: Perfil :alien:</h2>
+    <p style="font-size: 16px;">
+    Iniciante em programação, apaixonado por arte e por tecnologia.
+    </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2>♦ H o b b i e s : ♦</h2>
+</div>
+
+
+- 🎮 Video-Games
+- 📄 Composição
+- 🎲 RPG de Mesa
+- 🎸 Música
+- 📷 Fotografia
+
+<div align="center">
+    <h2>:mailbox: Contato :mailbox:</h2>
+</div>
+
+<div align="center"> 
+  <a href="https://instagram.com/theus_reis035" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/zeetheu" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:matheuzinho.r.f@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-dos-reis-fonseca-043768250" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
+<div align="center">
+  <a href="https://github.com/zeTheu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeTheu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeTheu&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
