@@ -2,12 +2,12 @@
   <h1> print('Hello, World!')</h1>
 </div>
 
--Desenvolvedor Web Fullstack em formação na Kenzie Academy Brasil. 
+
 
 <div align="center">
     <h2>:alien: Perfil :alien:</h2>
     <p style="font-size: 16px;">
-    Iniciante em programação, apaixonado por arte e por tecnologia.
+    Desenvolvedor Web Fullstack em formação na Kenzie Academy Brasil. 
     </p>
 </div>
 
