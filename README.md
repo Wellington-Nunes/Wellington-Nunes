@@ -5,7 +5,7 @@
 
 
 <div align="center">
-    <h2>:alien: Perfil :alien:</h2>
+    <h2>:👨🏻‍💻: Perfil :👨:</h2>
     <p style="font-size: 16px;">
     Desenvolvedor Web Fullstack em formação na Kenzie Academy Brasil. 
     </p>
