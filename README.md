@@ -16,8 +16,8 @@
   ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117)&nbsp;
 
   <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wellington-Nunes&show_icons=true&count_private=true&hide_border=true&title_color=023E73&icon_color=023E73&text_color=c9d1d9&bg_color=22272e" alt="Wellington Nunes github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-Nunes&layout=compact&hide_border=true&title_color=023E73&text_color=023E73&bg_color=22272e" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wellington-Nunes&show_icons=true&count_private=true&hide_border=true&title_color=023E73&icon_color=023E73&text_color=c9d1d9&bg_color=171819" alt="Wellington Nunes github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-Nunes&layout=compact&hide_border=true&title_color=023E73&text_color=023E73&bg_color=171819" />
   </div>
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wellington-Nunes&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
