@@ -17,10 +17,9 @@
   </div>
  
   ### Main skills:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-
+  ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117)&nbsp;
+  ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+  ![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
   ### Studying in this moment:
   ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -32,7 +31,6 @@
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Wellington-Nunes}/count.svg" /></p> 
     <br>
   </div>
-
-
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=023E73&height=120&section=footer"/>
+  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=62cdec&height=120&section=footer"/>
 </div>
