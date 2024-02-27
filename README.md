@@ -1,4 +1,4 @@
-<div style="background-color: #2C323B; padding: 30px;">
+<div style="background-color:#1C2128; padding: 30px;">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=62cdec&height=120&section=header"/>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=62cdecsize=40&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Wellington+Nunes;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
