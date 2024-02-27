@@ -1,4 +1,4 @@
-<div style="background-color: #22272e; padding: 30px;">
+<div style="background-color: #2C323B; padding: 30px;">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=62cdec&height=120&section=header"/>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=62cdecsize=40&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Wellington+Nunes;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -16,8 +16,8 @@
   ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117)&nbsp;
 
   <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wellington-Nunes&show_icons=true&count_private=true&hide_border=true&title_color=023E73&icon_color=023E73&text_color=c9d1d9&bg_color=2C323B" alt="Wellington Nunes github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-Nunes&layout=compact&hide_border=true&title_color=023E73&text_color=023E73&bg_color=2C323B" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wellington-Nunes&show_icons=true&count_private=true&hide_border=true&title_color=023E73&icon_color=023E73&text_color=c9d1d9&bg_color=22272e" alt="Wellington Nunes github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-Nunes&layout=compact&hide_border=true&title_color=023E73&text_color=023E73&bg_color=22272e" />
   </div>
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wellington-Nunes&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
