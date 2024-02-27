@@ -13,8 +13,8 @@
   </div>
 </div>
 
-  <div align="end">
-    <br><p align="centre"><b>Visitors Count</b></p>  
+  <div align="center">
+    <br><p align="center"><b>Visitors Count</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Wellington-Nunes}/count.svg" /></p> 
     <br>
   </div>
