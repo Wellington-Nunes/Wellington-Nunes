@@ -5,7 +5,7 @@
 
   ### Contact
   <div align="left"> 
-    <a href="https://www.instagram.com/nunes_well/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/dev.well/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/wellington-mariano-nunes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
  
@@ -16,11 +16,11 @@
   ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117)&nbsp;
 
   <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wellington-Nunes&show_icons=true&count_private=true&hide_border=true&title_color=023E73&icon_color=023E73&text_color=c9d1d9&bg_color=0d1117" alt="Wellington Nunes github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-Nunes&layout=compact&hide_border=true&title_color=023E73&text_color=023E73&bg_color=0d1117" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wellington-Nunes&show_icons=true&count_private=true&hide_border=true&title_color=023E73&icon_color=023E73&text_color=c9d1d9&bg_color=2C323B" alt="Wellington Nunes github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-Nunes&layout=compact&hide_border=true&title_color=023E73&text_color=023E73&bg_color=2C323B" />
   </div>
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wellington-Nunes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wellington-Nunes&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <div align="center">
     <br><p align="centre"><b>Visitors Count</b></p>  
