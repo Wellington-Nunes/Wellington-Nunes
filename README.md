@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=023E73&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Wellington+Nunes;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Wellington-Nunes&bg_color=a0ccf2&color=023e73&line=568ebf&point=023e73&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wellington-Nunes)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wellington-Nunes&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
