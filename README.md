@@ -5,13 +5,12 @@
   
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=62cdec&height=120&section=footer"/>
 
-###Contact
-<div align="left">
-  <div align="start"> 
+
+  <div align="center">
+    <br><p align="start"><b>Contact</b></p>  
     <a href="https://www.instagram.com/dev.well/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/wellington-mariano-nunes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
-</div>
 
   <div align="center">
     <br><p align="center"><b>Visitors Count</b></p>  
