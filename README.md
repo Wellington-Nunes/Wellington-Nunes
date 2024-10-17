@@ -10,10 +10,10 @@
 
   <h2>🌐 Socials:</h2>
   <div align="left">
-    <a href="https://www.instagram.com/dev.well/" target="_blank">
+    <a href="https://www.instagram.com/wnunes.dev/" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="https://www.linkedin.com/in/wellington-mariano-nunes/" target="_blank">
+    <a href="https://www.linkedin.com/in/owellingtonnunes/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </div>
