@@ -1,8 +1,7 @@
 <div style="background-color:#1C2128; padding: 30px;">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=62cdec&height=120&section=header"/>
 
-  <h1>💫 About Me:</h1>
-  
+  <h2>💫 About Me:</h1>
   <div align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com/?color=62cdec&size=42&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Wellington+Nunes;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29" />
@@ -29,9 +28,9 @@
       <img src="https://img.shields.io/badge/sql-%234F4F4F.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
       <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
       <img src="https://img.shields.io/badge/laravel-%23FF2D55.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-      <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
       <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react-native&logoColor=%2361DAFB" alt="React Native" />  
+      <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   </p>
 
   <h2>📊 GitHub Stats:</h2>
