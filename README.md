@@ -4,7 +4,7 @@
   <h2>💫 About Me:</h1>
   <div align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?color=62cdec&size=42&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Wellington+Nunes;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29" />
+      <img src="https://readme-typing-svg.herokuapp.com/?color=62cdec&size=42&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Wellington+Nunes;I'm+21+years+old;I'm+from+Brazil;Be+Welcome!+:%29" />
     </a>
   </div>
 
