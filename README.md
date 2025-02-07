@@ -35,13 +35,11 @@
 
   <h2>📊 GitHub Stats:</h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Wellington-Nunes&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wellington-Nunes&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-Nunes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-    
-    ![Wellington-Nunes's Stats](https://github-readme-stats.vercel.app/api?username=Wellington-Nunes&theme=dark&show_icons=true&hide_border=false&count_private=true)
-    ![Wellington-Nunes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wellington-Nunes&theme=dark&hide_border=false)
-    ![Wellington-Nunes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-Nunes&theme=dark&show_icons=true&hide_border=false&layout=compact)
+    <img src="https://github-readme-stats.vercel.app/api?username=Wellington-Nunes&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Wellington-Nunes's Stats" /><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wellington-Nunes&theme=dark&hide_border=false" alt="Wellington-Nunes's Streak" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-Nunes&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Wellington-Nunes's Top Languages" />
+  </p>
+
   </p>
 
   <hr/>
